@@ -189,7 +189,7 @@ section {
     width: 150px;
     height: 150px;
     border-radius: 50%;
-    background-image: url('/img/main/staff/one.jpg');
+    background-image: url(../img/main/staff/one.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -350,7 +350,7 @@ section {
 .one-cart-image {
     width:45%;
     height: 100%;
-    background-image: url('/img/main/reviews/one-menjpg.jpg');
+    background-image: url(../img/main/reviews/one-menjpg.jpg);
     background-size: contain;
     background-repeat: no-repeat;
 }
@@ -380,7 +380,7 @@ section {
     display: inline-block;
     width: 40px;
     height: 40px;
-    background-image: url('/img/main/reviews/stars.png');
+    background-image: url(../img/main/reviews/stars.png);
     background-size: cover;
 }
 
@@ -420,7 +420,7 @@ section {
     display: inline-block;
     width: 40px;
     height: 40px;
-    background-image: url('/img/footer/phone.png');
+    background-image: url(../img/footer/phone.png);
     background-size: cover;
 }
 
@@ -428,7 +428,7 @@ section {
     display: inline-block;
     width: 40px;
     height: 40px;
-    background-image: url('/img/footer/icons8-почта-48.png');
+    background-image: url(../img/footer/icons8-почта-48.png);
     background-size: cover;
 }
 
@@ -437,7 +437,7 @@ section {
     display: inline-block;
     width: 40px;
     height: 40px;
-    background-image: url('/img/footer/icons8-центр-города-64.png');
+    background-image: url(../img/footer/icons8-центр-города-64.png);
     background-size: cover;
 }
 
@@ -445,7 +445,7 @@ section {
     display: inline-block;
     width: 40px;
     height: 40px;
-    background-image: url('/img/footer/icons8-телеграмма-app-48.png');
+    background-image: url(../img/footer/icons8-телеграмма-app-48.png);
     background-size: cover;
 }
 
@@ -454,7 +454,7 @@ section {
     padding-right: 5px;
     width: 40px;
     height: 40px;
-    background-image: url('/img/footer/icons8-vk-48.png');
+    background-image: url(../img/footer/icons8-vk-48.png);
     background-size: cover;
 }
 
